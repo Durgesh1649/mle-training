@@ -1,3 +1,16 @@
 {
-    "editor.codeActionsOnSave": {}
+    "python.defaultInterpreterPath": "C:\\Users\\durgesh.patil\\Anaconda3\\python.exe",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.renderWhitespace": "all",
+    "json.schemas": [
+        
+    ],
+    "editor.formatOnType": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "editor.defaultFormatter": "ms-python.isort"
 }
